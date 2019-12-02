@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/josephkjacob/HerokuApp/issues"
   },
-  "homepage": "https://github.com/josephkjacob/HerokuApp#readme"
+  "homepage": "https://github.com/josephkjacob/HerokuApp#readme",
+  "engines": {
+    "node": "9.2.1"
+  }
 }
